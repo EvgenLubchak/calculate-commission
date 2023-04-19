@@ -14,7 +14,7 @@ use App\Services\RateService;
 /*
  * I know that UNIT tests should test UNITS separately. And ideally we should have separate tests for each service
  * in different folders and files. But I didn't have enough time to add all the tests for each file.
- * Therefore, here one big test is a bit like an internal test. But I used Mock data as required by the test task.
+ * Therefore, here one big test is a bit like an integration test. But I used Mock data as required by the test task.
  * And this 3 test checks the commission calculation in general.
 */
 

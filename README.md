@@ -4,7 +4,7 @@ Features:
 <br>
 refactored code using services
 ```
-public/index.php
+app/public/index.php
 ```
 
 ## local project setup

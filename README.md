@@ -15,7 +15,7 @@ Run in your work dir to build containers
 docker compose up --build -d
 ```
 
-Run to find app service image NAME 
+Run to find app service container NAME 
 ```
 docker compose ps
 ```
